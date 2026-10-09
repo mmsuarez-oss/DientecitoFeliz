@@ -1,6 +1,6 @@
 # Dientecito Feliz
 
-Sistema de consola para la clínica odontológica Dientecito Feliz.
+Sistema web local para la clínica odontológica Dientecito Feliz.
 Universidad Americana - Facultad de Ingeniería y Arquitectura - Programación Estructurada.
 
 Desarrollo por versiones según `Cronograma_actualizado_v2.pdf`: cada defensa agrega un módulo
@@ -28,8 +28,11 @@ Todavía no incluye: archivos, validaciones, búsqueda ni límite de intentos de
 ### Ejecutar
 
 ```
-python src/main.py
+pip install -r requirements.txt
+python src/app.py
 ```
+
+Abrir http://localhost:5000 en el navegador.
 
 ## Integrantes
 
