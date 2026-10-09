@@ -25,11 +25,10 @@ Todavía no incluye: archivos, validaciones, búsqueda ni límite de intentos de
 | docente    | 1234  | Docente        |
 | admin      | 1234  | Administrador  |
 
-### Compilar y ejecutar
+### Ejecutar
 
 ```
-gcc src/main.c -o dientecito_feliz
-./dientecito_feliz
+python src/main.py
 ```
 
 ## Integrantes
